@@ -1,4 +1,3 @@
-# Milestone_2
 <!DOCTYPE html>
 <html lang="en">
 <body>
