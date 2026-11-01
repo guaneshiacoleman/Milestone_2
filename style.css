@@ -1,0 +1,30 @@
+* {
+    margin:8px;
+}
+/* ID selector */
+#main-header h1 {
+    background-color: Turquoise;
+    color: Silver;
+.tagline {
+    margin: 8px;
+}
+h2 {
+    color: Gray;
+    margin-top:8px;
+    margin-bottom:8px;
+    border-left:8px;
+    padding-left:8px;
+}
+h3 {
+    color: Indigo
+}
+p {
+    margin-bottom:8px;
+}
+/* Footer */
+footer {
+    background-color: Brown
+}
+footer p {
+    margin:8px;
+}
