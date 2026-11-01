@@ -6,7 +6,7 @@
 	<header>
     <h1>Being and Artist helped heal me mentally and emotionally</h1>
  </header>
-  <a href= "Dragon.jpg" target="_blank">
+	<a href= "Dragon.jpg" target="image">
 <img src="Dragonfly.jpg" alt="A teal blue and green dragonfly hovering over a pond">
   </a>
 <main>
