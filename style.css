@@ -18,6 +18,24 @@ h2 {
 h3 {
     color: Indigo
 }
+    background-color: lightgray;
+  }
+        body {
+            background-color: lightgray;
+            font-size: 14px;
+            @media (max-width: 320px) {
+  {
+    background-color: lightgray;
+  }
+        }
+@media (max-width: 768px) {
+ {
+    background-color: Teal;
+  }
+}@media (max-width: 1200px) {
+ {
+    background-color: Peach;
+  }
 p {
     margin-bottom:8px;
 }
@@ -27,4 +45,8 @@ footer {
 }
 footer p {
     margin:8px;
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
